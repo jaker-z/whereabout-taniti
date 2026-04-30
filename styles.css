@@ -295,15 +295,15 @@ input, textarea {
 
 
 .img1 {
-    background-image: url('images/clinton-mwebaze.jpg');
+    background-image: url('images/clinton-mwebaze-home.jpg');
     background-size: auto 400px;
 }
 .img2 {
-    background-image: url('images/vojtech-bruzek.jpg');
+    background-image: url('images/vojtech-bruzek-home.jpg');
     background-size: auto 400px;
 }
 .img3 {
-    background-image: url('images/dmitry-limonov.jpg');
+    background-image: url('images/dmitry-limonov-home.jpg');
     background-size: auto 400px;
 }
 
@@ -347,7 +347,7 @@ input, textarea {
 }
 .img5 {
     background-image: url('images/clinton-mwebaze.jpg');
-    background-size: 340.09px auto;
+    background-size: 341px auto;
 }
 .img6 {
     background-image: url('images/zalfa-imani.jpg');
@@ -364,7 +364,7 @@ input, textarea {
 }
 .img9 {
     background-image: url('images/bridger-bowcutt.jpg');
-    background-size: 340.09px auto;
+    background-size: 341px auto;
 }
 .img10 {
     background-image: url('images/katherine-sousa.jpg');
@@ -633,7 +633,7 @@ ul {
 
 .img12 {
     background-image: url('images/luna-kay.jpg');
-    background-size: 340.09px auto;
+    background-size: 341px auto;
 }
 .img13 {
     background-image: url('images/vojtech-bruzek.jpg');
